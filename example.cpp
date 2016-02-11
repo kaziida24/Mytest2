@@ -4,6 +4,6 @@ using namespace std;
 int main(int argc, char* argv[])
 {
 	float f = 4.0;
-	cout << "f = %f" << f;
+	cout << "f = %4.2f" << f;
 	return 0;
 }
